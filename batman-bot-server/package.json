@@ -1,0 +1,6 @@
+{
+  "name": "batman-quiz-bot-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram webhook server for @batmanQuizBot"
+}
